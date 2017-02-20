@@ -11,7 +11,7 @@ public class Levenshtein : MonoBehaviour
 	public NGramGenerator NGramHandler;
 	public Text[] ButtonLabels;
 
-	private const int maxWordLength = 10;
+	private const int maxWordLength = 15;
 	private const int maxLevenshteinCost = 7;
 	private const int minLevenshteinCost = 1;
 	private List<string> corpus = new List<string>();

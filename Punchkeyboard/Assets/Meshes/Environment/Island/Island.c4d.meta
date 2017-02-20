@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 4d217e99544ed1043a2037db120372bd
+timeCreated: 1487598746
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Boulders
+    100002: CINEMA_4D_Editor
+    100004: Dark_Boulder_10
+    100006: Dark_Boulder_11
+    100008: Dark_Boulder_12
+    100010: Dark_Boulder_13
+    100012: Dark_Boulder_8
+    100014: Dark_Boulder_9
+    100016: DarkBoulders
+    100018: Island
+    100020: //RootNode
+    100022: Light_Boulder_10
+    100024: Light_Boulder_11
+    100026: Light_Boulder_12
+    100028: Light_Boulder_13
+    100030: Light_Boulder_14
+    100032: Light_Boulder_15
+    100034: Light_Boulder_16_2
+    100036: Light_Boulder_17
+    100038: Light_Boulder_4
+    100040: Light_Boulder_5_2
+    100042: Light_Boulder_6
+    100044: Light_Boulder_7
+    100046: Light_Boulder_8
+    100048: Light_Boulder_9
+    100050: LightBoulders
+    400000: Boulders
+    400002: CINEMA_4D_Editor
+    400004: Dark_Boulder_10
+    400006: Dark_Boulder_11
+    400008: Dark_Boulder_12
+    400010: Dark_Boulder_13
+    400012: Dark_Boulder_8
+    400014: Dark_Boulder_9
+    400016: DarkBoulders
+    400018: //RootNode
+    400020: Island
+    400022: Light_Boulder_10
+    400024: Light_Boulder_11
+    400026: Light_Boulder_12
+    400028: Light_Boulder_13
+    400030: Light_Boulder_14
+    400032: Light_Boulder_15
+    400034: Light_Boulder_16_2
+    400036: Light_Boulder_17
+    400038: Light_Boulder_4
+    400040: Light_Boulder_5_2
+    400042: Light_Boulder_6
+    400044: Light_Boulder_7
+    400046: Light_Boulder_8
+    400048: Light_Boulder_9
+    400050: LightBoulders
+    2300000: Dark_Boulder_10
+    2300002: Dark_Boulder_11
+    2300004: Dark_Boulder_12
+    2300006: Dark_Boulder_13
+    2300008: Dark_Boulder_8
+    2300010: Dark_Boulder_9
+    2300012: Island
+    2300014: Light_Boulder_10
+    2300016: Light_Boulder_11
+    2300018: Light_Boulder_12
+    2300020: Light_Boulder_13
+    2300022: Light_Boulder_14
+    2300024: Light_Boulder_15
+    2300026: Light_Boulder_16_2
+    2300028: Light_Boulder_17
+    2300030: Light_Boulder_4
+    2300032: Light_Boulder_5_2
+    2300034: Light_Boulder_6
+    2300036: Light_Boulder_7
+    2300038: Light_Boulder_8
+    2300040: Light_Boulder_9
+    3300000: Dark_Boulder_10
+    3300002: Dark_Boulder_11
+    3300004: Dark_Boulder_12
+    3300006: Dark_Boulder_13
+    3300008: Dark_Boulder_8
+    3300010: Dark_Boulder_9
+    3300012: Island
+    3300014: Light_Boulder_10
+    3300016: Light_Boulder_11
+    3300018: Light_Boulder_12
+    3300020: Light_Boulder_13
+    3300022: Light_Boulder_14
+    3300024: Light_Boulder_15
+    3300026: Light_Boulder_16_2
+    3300028: Light_Boulder_17
+    3300030: Light_Boulder_4
+    3300032: Light_Boulder_5_2
+    3300034: Light_Boulder_6
+    3300036: Light_Boulder_7
+    3300038: Light_Boulder_8
+    3300040: Light_Boulder_9
+    4300000: Island
+    4300002: Light_Boulder_4
+    4300004: Light_Boulder_5_2
+    4300006: Light_Boulder_6
+    4300008: Light_Boulder_7
+    4300010: Light_Boulder_8
+    4300012: Light_Boulder_9
+    4300014: Light_Boulder_10
+    4300016: Light_Boulder_11
+    4300018: Light_Boulder_12
+    4300020: Light_Boulder_13
+    4300022: Light_Boulder_14
+    4300024: Light_Boulder_15
+    4300026: Light_Boulder_16_2
+    4300028: Light_Boulder_17
+    4300030: Dark_Boulder_8
+    4300032: Dark_Boulder_9
+    4300034: Dark_Boulder_10
+    4300036: Dark_Boulder_11
+    4300038: Dark_Boulder_12
+    4300040: Dark_Boulder_13
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

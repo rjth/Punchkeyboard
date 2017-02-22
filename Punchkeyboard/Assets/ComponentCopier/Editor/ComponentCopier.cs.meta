@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f47a2b9a5a9444e50baf325d51549824
+labels:
+- copy
+- paste
+- component
+- components
+- copier
+- paster
+- transform
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

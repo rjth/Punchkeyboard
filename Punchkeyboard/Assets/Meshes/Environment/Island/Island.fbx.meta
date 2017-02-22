@@ -1,69 +1,65 @@
 fileFormatVersion: 2
-guid: 4d217e99544ed1043a2037db120372bd
-timeCreated: 1487598746
+guid: 0a0823704e66cba4eb07d99162e72886
+timeCreated: 1487781347
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: Boulders
-    100002: CINEMA_4D_Editor
-    100004: Dark_Boulder_10
-    100006: Dark_Boulder_11
-    100008: Dark_Boulder_12
-    100010: Dark_Boulder_13
-    100012: Dark_Boulder_8
-    100014: Dark_Boulder_9
-    100016: DarkBoulders
-    100018: Island
-    100020: //RootNode
-    100022: Light_Boulder_10
-    100024: Light_Boulder_11
-    100026: Light_Boulder_12
-    100028: Light_Boulder_13
-    100030: Light_Boulder_14
-    100032: Light_Boulder_15
-    100034: Light_Boulder_16_2
-    100036: Light_Boulder_17
-    100038: Light_Boulder_4
-    100040: Light_Boulder_5_2
-    100042: Light_Boulder_6
-    100044: Light_Boulder_7
-    100046: Light_Boulder_8
-    100048: Light_Boulder_9
-    100050: LightBoulders
+    100002: Dark_Boulder_10
+    100004: Dark_Boulder_11
+    100006: Dark_Boulder_12
+    100008: Dark_Boulder_13
+    100010: Dark_Boulder_8
+    100012: Dark_Boulder_9
+    100014: DarkBoulders
+    100016: //RootNode
+    100018: Light_Boulder_10
+    100020: Light_Boulder_11
+    100022: Light_Boulder_12
+    100024: Light_Boulder_13
+    100026: Light_Boulder_14
+    100028: Light_Boulder_15
+    100030: Light_Boulder_16_2
+    100032: Light_Boulder_17
+    100034: Light_Boulder_4
+    100036: Light_Boulder_5_2
+    100038: Light_Boulder_6
+    100040: Light_Boulder_7
+    100042: Light_Boulder_8
+    100044: Light_Boulder_9
+    100046: LightBoulders
     400000: Boulders
-    400002: CINEMA_4D_Editor
-    400004: Dark_Boulder_10
-    400006: Dark_Boulder_11
-    400008: Dark_Boulder_12
-    400010: Dark_Boulder_13
-    400012: Dark_Boulder_8
-    400014: Dark_Boulder_9
-    400016: DarkBoulders
-    400018: //RootNode
-    400020: Island
-    400022: Light_Boulder_10
-    400024: Light_Boulder_11
-    400026: Light_Boulder_12
-    400028: Light_Boulder_13
-    400030: Light_Boulder_14
-    400032: Light_Boulder_15
-    400034: Light_Boulder_16_2
-    400036: Light_Boulder_17
-    400038: Light_Boulder_4
-    400040: Light_Boulder_5_2
-    400042: Light_Boulder_6
-    400044: Light_Boulder_7
-    400046: Light_Boulder_8
-    400048: Light_Boulder_9
-    400050: LightBoulders
+    400002: Dark_Boulder_10
+    400004: Dark_Boulder_11
+    400006: Dark_Boulder_12
+    400008: Dark_Boulder_13
+    400010: Dark_Boulder_8
+    400012: Dark_Boulder_9
+    400014: DarkBoulders
+    400016: //RootNode
+    400018: Light_Boulder_10
+    400020: Light_Boulder_11
+    400022: Light_Boulder_12
+    400024: Light_Boulder_13
+    400026: Light_Boulder_14
+    400028: Light_Boulder_15
+    400030: Light_Boulder_16_2
+    400032: Light_Boulder_17
+    400034: Light_Boulder_4
+    400036: Light_Boulder_5_2
+    400038: Light_Boulder_6
+    400040: Light_Boulder_7
+    400042: Light_Boulder_8
+    400044: Light_Boulder_9
+    400046: LightBoulders
     2300000: Dark_Boulder_10
     2300002: Dark_Boulder_11
     2300004: Dark_Boulder_12
     2300006: Dark_Boulder_13
     2300008: Dark_Boulder_8
     2300010: Dark_Boulder_9
-    2300012: Island
+    2300012: //RootNode
     2300014: Light_Boulder_10
     2300016: Light_Boulder_11
     2300018: Light_Boulder_12
@@ -84,7 +80,7 @@ ModelImporter:
     3300006: Dark_Boulder_13
     3300008: Dark_Boulder_8
     3300010: Dark_Boulder_9
-    3300012: Island
+    3300012: //RootNode
     3300014: Light_Boulder_10
     3300016: Light_Boulder_11
     3300018: Light_Boulder_12
@@ -120,7 +116,6 @@ ModelImporter:
     4300036: Dark_Boulder_11
     4300038: Dark_Boulder_12
     4300040: Dark_Boulder_13
-    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -145,7 +140,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.01
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
@@ -183,7 +178,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

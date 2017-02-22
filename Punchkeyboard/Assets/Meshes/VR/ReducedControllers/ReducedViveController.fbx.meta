@@ -1,42 +1,38 @@
 fileFormatVersion: 2
-guid: a175979207e26ec4cacb0622ab725777
-timeCreated: 1487233361
+guid: 536028004cd5e9e44af6c28393f113b8
+timeCreated: 1487779805
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: CINEMA_4D_Editor
-    100002: Controller
-    100004: Led
-    100006: LeftGrip
-    100008: MenuButton
-    100010: //RootNode
-    100012: RightGrip
-    100014: SystemButton
-    100016: Trackpad
-    100018: Trigger
-    400000: CINEMA_4D_Editor
-    400002: Controller
-    400004: Led
-    400006: LeftGrip
-    400008: MenuButton
-    400010: //RootNode
-    400012: RightGrip
-    400014: SystemButton
-    400016: Trackpad
-    400018: Trigger
-    2300000: Controller
-    2300002: Led
-    2300004: LeftGrip
-    2300006: MenuButton
+    100000: Led
+    100002: LeftGrip
+    100004: MenuButton
+    100006: //RootNode
+    100008: RightGrip
+    100010: SystemButton
+    100012: Trackpad
+    100014: Trigger
+    400000: Led
+    400002: LeftGrip
+    400004: MenuButton
+    400006: //RootNode
+    400008: RightGrip
+    400010: SystemButton
+    400012: Trackpad
+    400014: Trigger
+    2300000: Led
+    2300002: LeftGrip
+    2300004: MenuButton
+    2300006: //RootNode
     2300008: RightGrip
     2300010: SystemButton
     2300012: Trackpad
     2300014: Trigger
-    3300000: Controller
-    3300002: Led
-    3300004: LeftGrip
-    3300006: MenuButton
+    3300000: Led
+    3300002: LeftGrip
+    3300004: MenuButton
+    3300006: //RootNode
     3300008: RightGrip
     3300010: SystemButton
     3300012: Trackpad
@@ -49,7 +45,6 @@ ModelImporter:
     4300010: Trackpad
     4300012: MenuButton
     4300014: SystemButton
-    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -74,7 +69,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.001
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
@@ -112,7 +107,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
